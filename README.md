@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" />
+</h3>
+<p align="center">
+  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=beingmaruf&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</p>
+
+
+<!-- Profile cards with glow effect -->
+
+
+<div align="center">
+  
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingmaruf&theme=radical)
+  
+</div>
+
+
+
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beingmaruf/beingmaruf/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beingmaruf/beingmaruf/output/snake.svg">
+</picture>
