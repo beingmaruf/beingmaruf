@@ -1,19 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+I'm+Abdullah;Flutter+Developer;Building+Scalable+Mobile+Apps" alt="Typing Animation" />
+</p>
 
-<!--
-**beingmaruf/beingmaruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Published Applications
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Deep Quran</h3>
+      <p align="center">
+        <strong>Role:</strong> Game Module Owner
+      </p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.deepquran.app" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+      </p>
+      <p align="center">
+        Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
