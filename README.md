@@ -8,12 +8,10 @@
   <tr>
     <td width="50%">
       <h3 align="center">Deep Quran</h3>
+      <p align="center"><strong>Role:</strong> Game Module Owner</p>
       <p align="center">
-        <strong>Role:</strong> Game Module Owner
-      </p>
-      <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.deepquran.app" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        <a href="https://play.google.com/store/apps/details?id=com.deepquran.app">
+          <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
         </a>
       </p>
       <p align="center">
@@ -22,18 +20,14 @@
     </td>
     <td width="50%">
       <h3 align="center">Dragon MAθ</h3>
+      <p align="center"><strong>Role:</strong> Admin Panel Owner</p>
       <p align="center">
-        <strong>Role:</strong> Admin Panel Owner
-      </p>
-      <p align="center">
-        <a href="https://apps.apple.com/us/app/dragon-maθ/id6759892711" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+        <a href="https://apps.apple.com/us/app/dragon-maθ/id6759892711">
+          <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
         </a>
       </p>
       <p align="center">
-        Dragon MAθ is a Flutter-based student event management and attendance tracking app built for educational institutions. 
-        It allows students to discover events, mark attendance using QR code scanning, earn participation points, and receive notifications, 
-        while administrators manage events, monitor attendance, approve students, and control activities in real time.
+        Flutter-based student event management and attendance tracking app for educational institutions with QR attendance, event discovery, participation points, and real-time admin management.
       </p>
     </td>
   </tr>
