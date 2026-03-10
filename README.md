@@ -20,6 +20,22 @@
         Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility.
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">Dragon MAθ</h3>
+      <p align="center">
+        <strong>Role:</strong> Admin Panel Owner
+      </p>
+      <p align="center">
+        <a href="https://apps.apple.com/us/app/dragon-maθ/id6759892711" target="_blank">
+          <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+        </a>
+      </p>
+      <p align="center">
+        Dragon MAθ is a Flutter-based student event management and attendance tracking app built for educational institutions. 
+        It allows students to discover events, mark attendance using QR code scanning, earn participation points, and receive notifications, 
+        while administrators manage events, monitor attendance, approve students, and control activities in real time.
+      </p>
+    </td>
   </tr>
 </table>
 
