@@ -23,7 +23,7 @@
       <p align="center"><strong>Role:</strong> Admin Panel Owner</p>
       <p align="center">
         <a href="https://apps.apple.com/us/app/dragon-maθ/id6759892711">
-          <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+          <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/>
         </a>&nbsp;
         <a href="https://play.google.com/store/apps/details?id=com.dragonmao.app">
           <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
