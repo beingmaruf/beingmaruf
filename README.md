@@ -21,7 +21,7 @@
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Dragon MAθ</h3>
+      <h3 align="center">Dragon MAT</h3>
       <p align="center"><strong>Role:</strong> Admin Panel Owner</p>
       <p align="center">
         <a href="https://apps.apple.com/us/app/dragon-maθ/id6759892711">
