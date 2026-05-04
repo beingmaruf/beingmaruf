@@ -10,7 +10,6 @@
   <tr>
     <td width="33%">
       <h3 align="center">Deep Quran</h3>
-      <p align="center"><strong>Role:</strong> Game Module Owner</p>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.deepquran.app">
           <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
@@ -22,7 +21,6 @@
     </td>
     <td width="33%">
       <h3 align="center">Dragon MAT</h3>
-      <p align="center"><strong>Role:</strong> Admin Panel Owner</p>
       <p align="center">
         <a href="https://apps.apple.com/us/app/dragon-maθ/id6759892711">
           <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/>
@@ -37,7 +35,6 @@
     </td>
     <td width="33%">
       <h3 align="center">Med Connect</h3>
-      <p align="center"><strong>Role:</strong> Complete App Owner</p>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.medconnect.ge.app&hl=en">
           <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
