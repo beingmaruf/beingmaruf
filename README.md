@@ -4,7 +4,7 @@
 
 ---
 
-## Published Applications
+## Published Applications..
 
 <table>
   <tr>
