@@ -53,11 +53,11 @@
   <img width="50%" src="https://streak-stats.demolab.com?user=beingmaruf&theme=radical&hide_border=true" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingmaruf&theme=radical)
 
-</div>
+</div> -->
 
 ---
 
